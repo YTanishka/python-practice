@@ -20,3 +20,10 @@ price = int(input())
 quantity = 2
 total = price * quantity
 print(total)
+
+age = "20"
+print(age + 5) #error deta h
+
+number = int("Python") #error deta h
+print(number)
+
