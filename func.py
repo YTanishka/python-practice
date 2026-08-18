@@ -1,4 +1,6 @@
 def name():
-    print("Hello, Tanishka")
+    name = "tanishka"
+    for i in name:
+        print(i)
 
 name()
